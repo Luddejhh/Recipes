@@ -1,7 +1,5 @@
 # Recipes
-A project from the odin curriculum.
-
-This project is a project from the odin curriculum(foundations)
+A project from the odin curriculum(foundations, HTML).
 
 It consist of a main page where there are links to a a few of
 my favorite recipes.
