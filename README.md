@@ -10,6 +10,8 @@ technologies learnt/used:
 
 Git, Github, HTML5. 
 
-Some html elements and tags i learned to use:
+________________________
+
+Html elements and tags i learned to use:
 
 Links, Img, ol, ul, li, h1 - h6 tags. p tags, html boilerplate.
